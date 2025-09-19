@@ -35,3 +35,10 @@ void Logger::addEntry(QString entry)
     this->Log.append(entry);
     emit entryAdded(entry);
 }
+
+void Logger::appendEntry(QString entry)
+{
+    this->FirstEntry = false;
+    this->Log.append(entry);
+    emit entryAdded(entry);
+}

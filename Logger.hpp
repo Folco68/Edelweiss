@@ -12,6 +12,7 @@ class Logger: public QObject
     static Logger* instance();
     static void    release();
     void           addEntry(QString entry);
+    void           appendEntry(QString entry);
 
   private:
     static Logger* logger;

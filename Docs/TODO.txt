@@ -1,0 +1,38 @@
+- Meeting           OK
+- Event
+- TI follow-up      OK
+- RK deployment
+- FT
+- Safety
+- TPMS planning
+- TP presence
+- Issues
+- Admin procedures
+- Calibrations
+- Automation
+- Action plan
+
+All events:
+- creation date/time
+- event date/time
+- duration
+- linked list?
+- type
+
+Meetings
+- location
+- stakeholders
+- topics discussed
+- actions to be taken
+
+TI follow-up
+- number
+- title
+- summary
+- line
+- machine
+- priority
+- status
+- responsible
+- next step
+- notes
